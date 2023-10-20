@@ -1,0 +1,27 @@
+{
+  "version": "0.3.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Teapot",
+      "text": "",
+      "points": [
+        [
+          58.43734643734645,
+          17.896805896805905
+        ],
+        [
+          188.4127764127764,
+          121.58230958230958
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "275.jpg",
+  "imageData": null,
+  "imageHeight": 224,
+  "imageWidth": 224
+}

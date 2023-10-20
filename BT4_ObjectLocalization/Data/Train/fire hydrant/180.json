@@ -1,0 +1,27 @@
+{
+  "version": "0.3.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "fire hydrant",
+      "text": "",
+      "points": [
+        [
+          61.631449631449655,
+          22.319410319410327
+        ],
+        [
+          136.81572481572482,
+          194.06388206388206
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "180.jpg",
+  "imageData": null,
+  "imageHeight": 224,
+  "imageWidth": 224
+}
